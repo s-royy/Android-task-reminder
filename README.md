@@ -2,7 +2,11 @@
 App for creating and managing task reminders with support for attaching images or screenshots.
 
 ## Overview
-TaskReminder helps users manage daily tasks with reminders, subtasks, voice input, image attachments, location-based alerts, and a built-in Pomodoro timer — all wrapped in a clean UI with dark mode support.
+TaskFlow lets users create, organize, and track tasks with time-based and location-based reminders.
+Tasks support subtasks, priority levels, category color tags, image attachments, and voice input.
+A built-in Pomodoro timer links focus sessions to tasks, while recurring task streaks track habit consistency.
+An analytics dashboard visualizes weekly progress, completion rates, and active streaks.
+
 
 ## Features
 
